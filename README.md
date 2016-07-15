@@ -11,6 +11,8 @@ Slack Channel: https://codeforsanjose.slack.com/messages/traffic_vta_visual/
 
 To clone the project, type the following command to the Git Shell: 
 
+```
 $ git clone https://github.com/codeforsanjose/sj311-ionic.git
+```
 
 Questions? Comments? Suggestions? Want to help out? Come in to the Slack Channel or send an email to brandvi1994@gmail.com
